@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin-top: 50px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+.weather-info {
+    background-color: #e7f3ff;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
